@@ -1,0 +1,29 @@
+body {background-color: #EC5614;}
+
+#title {
+  text-align: center;
+  color: #342624;
+}
+
+#description {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  color: #342624;
+  position: relative;
+  bottom: 10px;
+ }
+
+#form {
+  margin: auto;
+  background-color: white;
+  border-radius: 5px;
+  width: 70%;
+  padding: 30px;
+}
+
+.check {
+display: block;
+}
+
+
