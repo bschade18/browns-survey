@@ -21,6 +21,22 @@ body {background-color: #EC5614;}
   width: 55%;
   padding: 30px;
 }
+@media only screen and (max-width:800px) {
+  /* For mobile phones: */
+  #form {
+    width:90%;
+  }
+}
+
+p, input[name=recommendation] {
+  line-height: 1.5;
+}
+form, input[class=check] {
+  line-height: 1.5;
+}
+textarea {
+  resize: none;
+}
 
 
 
